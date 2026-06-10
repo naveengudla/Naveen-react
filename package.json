@@ -1,0 +1,38 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "online delivery",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveengudla/Naveen-react.git"
+  },
+  "keywords": [
+    "xyz"
+  ],
+  "author": "Naveen Gudla",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/naveengudla/Naveen-react/issues"
+  },
+  "homepage": "https://github.com/naveengudla/Naveen-react#readme",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.12.0",
+    "@tailwindcss/postcss": "^4.3.0",
+    "axios": "^1.16.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-redux": "^9.3.0",
+    "react-router": "^6.30.4",
+    "react-router-dom": "^6.30.4",
+    "tailwindcss": "^4.3.0"
+  }
+}

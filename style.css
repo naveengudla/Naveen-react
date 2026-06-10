@@ -1,0 +1,60 @@
+/* .headerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 15px 40px -20px rgba(40, 44, 63, .15);
+}
+
+.navbarContainer ul{
+    display: flex;
+    gap: 30px;
+}
+.navbarContainer ul li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    cursor: pointer;
+}
+
+.restaurantListContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.restaurantCardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 15px 40px -20px rgba(40, 44, 63, .15);
+    width: 200px;
+    cursor: pointer;
+}
+
+.bodyContainer{
+    padding: 20px;
+}
+
+.searchContainer{
+    padding: 20px;
+    display: flex;
+    gap: 50 px;
+}
+
+.navbarContainer ul a, .restaurantListContainer a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.restaurentMenuContainer{
+    padding: 20px;
+} */
+
+
+@import "tailwindcss";
